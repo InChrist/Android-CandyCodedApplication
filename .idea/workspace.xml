@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="started the store information activity">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,9 +240,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602562959056" />
-    <state width="420" height="44" key="javadoc.popup.new" timestamp="1602565305570">
+    <state width="420" height="44" key="javadoc.popup.new" timestamp="1602566171154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="420" height="44" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1602565305570" />
+    <state width="420" height="44" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1602566171154" />
   </component>
 </project>
