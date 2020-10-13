@@ -64,7 +64,7 @@
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -91,6 +91,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -172,6 +188,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -216,22 +233,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602563954586" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602565500150">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1602566281695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602565500150" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602565500150">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602566281695" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1602566281695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602565500150" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602565500150">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602566281695" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1602566281695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602565500150" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602565500150">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602566281695" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1602566281695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602565500150" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602566281695" />
     <state x="189" y="9" width="988" height="708" key="SettingsEditor" timestamp="1601690003682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -240,9 +257,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602562959056" />
-    <state width="420" height="44" key="javadoc.popup.new" timestamp="1602566171154">
+    <state width="420" height="44" key="javadoc.popup.new" timestamp="1602566870570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="420" height="44" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1602566171154" />
+    <state width="420" height="44" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1602566870570" />
   </component>
 </project>
